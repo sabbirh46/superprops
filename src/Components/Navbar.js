@@ -38,7 +38,7 @@ const Navbar = () => {
          <MenuLink href=''>FAQ </MenuLink>
        </Menu>
  
-       <Hambutton onClick={()=>{setVisible(true);}}>
+       <Hambutton onClick={()=>{setVisiblee(true);}}>
        <Hamspan></Hamspan>
        <Hamspan></Hamspan>
        <Hamspanlast></Hamspanlast>
